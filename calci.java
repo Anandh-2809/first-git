@@ -5,6 +5,7 @@ public static void main(String[] args){
     int b=20;
     System.out.println("add "+(a+b));
     System.out.println("sub "+(b-a));
+    System.out.println("mul "+(a*b));
     
 }
 }
