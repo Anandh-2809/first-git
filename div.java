@@ -3,7 +3,8 @@ public class div {
 
           int a=10;
        int b=20;
-       System.out.println("div "+b/a);
+       int c=2;
+       System.out.println("div "+b/c);
 
     }
     
